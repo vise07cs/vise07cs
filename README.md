@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vise07cs
 - 👀 I’m interested in 💻💻
-- 🌱 I’m currently learning AWS 
+- 🌱  AWS + DEVOPS  
 - 📫 How to reach me ... vikram7cs@gmail.com
 - 😄 Pronouns: ... vise
 - ⚡ Fun fact: ...I love watching webSeries
