@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Singh (aka vise)</h1>
-<h3 align="center">A passionate DevOps Engineer from India . I  also love Building Scalable Websites</h3>
+<h2 align="center">A passionate DevOps Engineer from India . I  also love Building Scalable Websites</h2>
 
 - 🔭 I’m currently working on **MERN STACK PROJECT**
-
-- 🌱 I’m currently learning **FULL STACK WEB DEV**
 
 - 💬 Ask me about **AWS , CI-CD Deployments , DevOps Tools and Practices ,**
 
