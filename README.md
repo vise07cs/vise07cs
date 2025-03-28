@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram Singh (vise)</h1>
 <h2 align="center">A passionate DevOps Engineer from India .</h2>
 
-- 🔭 I’m currently working on Building Scalable Websites
+- 🔭 I’m currently working on Building and Deploying Scalable Websites
 
 - 💬 Ask me about **AWS , CI-CD Deployments , DevOps Tools and Practices ,**
 
