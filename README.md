@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Building and Deploying Scalable Websites
 
-- 💬 Ask me about Cloud Infrastructure Management , CI-CD Deployments , DevOps Tools and Practices ,**
+- 💬 Ask me about Cloud , CI-CD Deployments , DevOps Tools and Practices ,**
 
 - 💬 I am also an AWS certified Solutions Architect  
 
